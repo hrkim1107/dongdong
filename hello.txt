@@ -17,3 +17,6 @@ $git commit -m "메세지"
 
 
 $git push origin + master
+
+
+### 반복이 필요하고 에러 메시지 확인후 수정하기 ####
